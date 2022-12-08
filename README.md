@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @moramvenkat
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+moramvenkat/moramvenkat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+Dr.M. Venkatanarayana, professor, ece & Dean, R&D cell
+I am interested in machine learning , scheduling, optimiation, estimation, internet of things, etc
+I am looking to collaborte with who are realy working on the above areas
